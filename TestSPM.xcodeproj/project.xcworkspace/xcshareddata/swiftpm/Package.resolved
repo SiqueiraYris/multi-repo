@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "dependency1",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SiqueiraYris/dependency1",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1822cb3619c2bed0abd1aca6c6bba34891d0bc80"
+      }
+    },
+    {
+      "identity" : "dependency2",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SiqueiraYris/dependency2",
+      "state" : {
+        "branch" : "main",
+        "revision" : "311197eb15369b209155438ac863040dc3e5eb56"
+      }
+    },
+    {
+      "identity" : "dependency3",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SiqueiraYris/dependency3",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ada3d4c9b86da306bd80c766efa6adb739c27e08"
+      }
+    }
+  ],
+  "version" : 2
+}
